@@ -1,0 +1,20 @@
+RAJOUTER UN BOUTON POUR TOGGLE ALL
+
+
+
+
+
+
+STORE.js function save ligne 77 générer l'id seulement si besoin
+
+
+GITHUB Crée un projet GIT par projet OCS
+
+
+Lister les projets sur le sit de manière plus lisible
+
+Rajouter un liens vers mon github 
+Linkedin
+
+
+
